@@ -1,2 +1,3 @@
 # Employee_card_react
-An Api based Employee cards app, To visit the website you may log on to https://arunsaharan.github.io/Employee_card_react/
+Our Employee cards app utilizes an API to display the profile information of your employees in a visually appealing and organized manner. With this app, you can quickly view the details of your employees, including their name, location, and contact information. The app is designed to be user-friendly and easy to navigate, making it the perfect tool for managers or HR personnel who need to access employee information on the go. Our app ensures that all employee data is secure and up-to-date, providing you with a reliable and efficient way to manage your team. 
+To visit the website you may log on to https://arunsaharan.github.io/Employee_card_react/
